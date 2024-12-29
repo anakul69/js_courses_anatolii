@@ -47,7 +47,7 @@ gameField.style.margin = '20px';
 
 gameObject.style.width = '50px';
 gameObject.style.height = '50px';
-gameObject.style.backgroundColor = 'red';
+gameObject.style.backgroundColor = 'black';
 gameObject.style.position = 'absolute';
 gameObject.style.top = '0';
 gameObject.style.left = '0';
